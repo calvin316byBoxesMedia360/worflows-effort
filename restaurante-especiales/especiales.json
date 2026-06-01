@@ -1,0 +1,52 @@
+{
+  "especiales": [
+    {
+      "id": 3,
+      "nombre": "Pupusas",
+      "descripcion": "",
+      "precio": 0.0,
+      "imagen": "tacos_gobernador_1.png",
+      "video": "",
+      "activo": false,
+      "fecha": "2026-05-31"
+    },
+    {
+      "id": 4,
+      "nombre": "Platillo a la Tampiqueña",
+      "descripcion": "",
+      "precio": 22.0,
+      "imagen": "plato_a_la_tampiquena2.jpeg",
+      "video": "",
+      "activo": true,
+      "mostrar_nombre": true,
+      "mostrar_precio": true,
+      "fecha": "2026-05-31"
+    },
+    {
+      "id": 5,
+      "nombre": "tacos gobernador",
+      "descripcion": "",
+      "precio": 17.0,
+      "imagen": "",
+      "video": "tacos_gobernador_1.mp4",
+      "activo": true,
+      "mostrar_nombre": true,
+      "mostrar_precio": true,
+      "duracion": 8.0,
+      "fecha": "2026-05-31"
+    },
+    {
+      "id": 6,
+      "nombre": "Plato de Tampiqueña",
+      "descripcion": "",
+      "precio": 19.0,
+      "imagen": "",
+      "video": "plato_tampiquena.mp4",
+      "activo": true,
+      "mostrar_nombre": true,
+      "mostrar_precio": true,
+      "duracion": 8.0,
+      "fecha": "2026-05-31"
+    }
+  ]
+}
